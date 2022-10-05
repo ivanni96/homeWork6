@@ -7,6 +7,11 @@ public class Main {
             System.out.println("Итерация цикла " + i);
         }
 
+        // Задача 2
+
+        for ( int a = 10; a >= 0; a --) {
+            System.out.println("Итерация цикла " + a);
+        }
 
 
     }
