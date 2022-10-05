@@ -43,5 +43,15 @@ public class Main {
             System.out.println("Итерация цикла " + g);
         }
 
+        // Задача 8
+
+        int deposit = 29000;
+        int totalDeposit = 0;
+
+        for (int k = 1; k < 12; k ++){
+            totalDeposit = totalDeposit + deposit;
+            System.out.println("Месяц " + k + " ,cумма накоплений равна " + totalDeposit);
+        }
+
     }
 }
