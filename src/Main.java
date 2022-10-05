@@ -31,5 +31,11 @@ public class Main {
             System.out.println("Високосный год " + d);
         }
 
+        // Задача 6
+
+        for (int e = 7; e <= 98; e = e + 7){
+            System.out.println("Итерация цикла " + e);
+        }
+
     }
 }
