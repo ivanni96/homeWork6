@@ -37,5 +37,11 @@ public class Main {
             System.out.println("Итерация цикла " + e);
         }
 
+        // Задача 7
+
+        for (int g = 1; g <= 512; g = g * 2){
+            System.out.println("Итерация цикла " + g);
+        }
+
     }
 }
