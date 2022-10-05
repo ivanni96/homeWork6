@@ -13,6 +13,11 @@ public class Main {
             System.out.println("Итерация цикла " + a);
         }
 
+        // Задача 3
+
+        for (int c = 0 ; c < 17; c = c + 2 ){
+            System.out.println("Итерация цикла " + c);
+        }
 
     }
 }
