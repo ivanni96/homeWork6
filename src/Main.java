@@ -19,5 +19,11 @@ public class Main {
             System.out.println("Итерация цикла " + c);
         }
 
+        // Задача 4
+
+        for (int b = 10 ; b >= -10; b --){
+            System.out.println("Итерация цикла " + b);
+        }
+
     }
 }
