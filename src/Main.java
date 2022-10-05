@@ -25,5 +25,11 @@ public class Main {
             System.out.println("Итерация цикла " + b);
         }
 
+        // Задача 5
+
+        for (int d = 1904 ; d <= 2096; d = d + 4) {
+            System.out.println("Високосный год " + d);
+        }
+
     }
 }
